@@ -1,6 +1,6 @@
 # Locally Adaptive DISTS
 
-This is the pytorch implementation of the paper [Locally Adaptive Structure and Texture Similarity for Image Quality Assessment](https://arxiv.org/abs/2110.08521) — a extension of [DISTS](https://arxiv.org/abs/2004.07728), which separates structure and texture across space and scale, and assigns the adaptive weights to quality measurements according to local image content. 
+This is the pytorch implementation of the paper [Locally Adaptive Structure and Texture Similarity for Image Quality Assessment](https://arxiv.org/abs/2110.08521) — an extension of [DISTS](https://arxiv.org/abs/2004.07728), which separates structure and texture across space and scale, and assigns the adaptive weights to quality measurements according to local image content. 
 
 ### Citation
 ```
